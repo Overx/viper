@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
 ## Viper Pro
 
 >Viperpro é um projeto de código aberto desenvolvido em PHP utilizando o Framework Laravel 10 e Vue 3,
@@ -28,6 +29,8 @@ E o melhor: ao adquirir o código-fonte, você ganha 90 dias de suporte gratuito
 >If you're looking for high-quality platforms with excellent cost-effectiveness, visit our website! There, you'll find complete and advanced solutions, including detailed documentation.
 And the best part: when you purchase the source code, you get 90 days of free support. Take advantage of it!
 
+
+
 Contato Oficial:
 
 https://wa.me/5531993753172
@@ -35,6 +38,35 @@ https://wa.me/5531993753172
 Instagram:
 
 https://www.instagram.com/venix.app/
+
+Site: 
+
+https://venix.app/
+
+## 🚀 A Plataforma de Cassino Mais Desejada do Mundo Está ao Seu Alcance!
+❌ Cansado de levar golpe ou comprar algo sem suporte de terceiros?
+
+Apresento aos modelos Viper Pro Premium, a plataforma de cassino online mais famosa e vendida do mercado. Aqui você compra direto da fonte, sem intermediários, com suporte dedicado, atualizações constantes e liberdade total para personalizar do seu jeito.
+
+✅ Tenha sua própria operação de cassino 100% na sua mão.
+🛑 Chega de pagar mensalidades absurdas ou ficar refém de terceiros.
+🔧 Código fonte completo, aberto e pronto para você escalar seu negócio com total segurança.
+💥 Viper Pro é a escolha de quem leva o jogo a sério!
+🎯 Suporte técnico, atualizações frequentes e tecnologia de ponta, direto do criador da plataforma.
+
+<div align="center">
+  <a href="https://venix.app/"><img src="https://venix.app/img/venix_marketplace.jpg" alt="Descrição da imagem" /></a>
+</div>
+
+Criamos esta plataforma para divulgar todos os nossos modelos de scripts 
+desenvolvidos por nós. Além disso, também iremos disponibilizar espaço para que
+outros desenvolvedores possam publicar e vender seus próprios projetos e oferecer seus serviços
+ a um preço acessivel.
+
+## Acesse agora mesmo:
+https://venix.app/
+
+
 
 ## Login Admin
 > Para acessar o painel de administração, basta acessar a URL que termina com /admin e inserir suas credenciais de acesso.
@@ -56,224 +88,14 @@ Altere:
 ->path('admin')
 ```
 
-## [VIPER PRO 2.0 e outros MODELOS - PREMIUM](https://wa.me/5531993753172)
+## CUIDADO COM UM NOVO GOLPISTA
+**Eu há um tempo após alguns haters, mudei o meu usuário do instagram, porem não sei como fizeram isso, pra mim não era
+possivel, alguem trocou, pegou o mesmo usuário meu anterior. Já denunciei, e peço a vocês que façam o mesmo, por que esse
+bandido está dando inumeros golpes utilizando meu nome e meu produto.**
 
-The Viper Pro 2 project has undergone a complete restructuring, offering enhanced performance, cutting-edge security, state-of-the-art technology, and continuous improvements.
+ESSE PERFIL NÂO SOU EU. DENUNCIEM!!!
 
-The Viper Pro 2.3 project has been completely revamped by the new Viper team, of which I’m no longer a part. However, I can confidently say that the project is in excellent hands — with some of the finest professionals in the iGaming industry.
-
-🚀 If you’re not a developer and you're looking for a high-quality platform, with ongoing improvements, frequent updates, a modern interface and a rock-solid backend, get your code now and take your business to the next level.
-
-* Source code
-* No obfuscation
-* No encryption
-* Translation system EN, BR, TR
-
-# $ 350 USD 
-# R$ 2000 mil reais
-All models below
-
-## MODELO VIPER 2.0
-
-<a target="_blank" href="https://viperpro2.venixserver.cloud/">
-    <div align="center">
-      <img src="https://uploaddeimagens.com.br/images/004/885/763/full/03.jpg?1742307340" alt="Descrição da imagem" />
-    </div>
-</a>
-
-## MODELO VIPER 2.0 RED
-
-<a target="_blank" href="https://viperpro2.venixserver.cloud/">
-    <div align="center">
-      <img src="https://uploaddeimagens.com.br/images/004/885/765/full/04.jpg?1742307455" alt="Descrição da imagem" />
-    </div>
-</a>
-
-[COMPRAR AQUI](https://wa.me/5531993753172)
-
-## MODELO CACTUS
-
-<a target="_blank" href="https://cactus.venixserver.cloud/">
-    <div align="center">
-      <img src="https://uploaddeimagens.com.br/images/004/885/760/full/01.jpg?1742307056" alt="Descrição da imagem" />
-    </div>
-</a>
-
-[COMPRAR AQUI](https://wa.me/5531993753172)
-
-## MODELO CHINESA
-
-<a target="_blank" href="https://chinesa.venixserver.cloud/">
-    <div align="center">
-      <img src="https://uploaddeimagens.com.br/images/004/885/761/full/02.jpg?1742307245" alt="Descrição da imagem" />
-    </div>
-</a>
-
-[COMPRAR AQUI](https://wa.me/5531993753172)
-
-
-### ------------------------------------------------------------------------------------
-
-## Aggregator System - GAME API PLATFORM
-Tired of constantly reloading and want games that are exclusively yours? We now offer a complete platform for GGR management, featuring over 117 games, all optimized with RTP control, demo mode, and influencer mode. In addition to enjoying your games without extra costs, you can also resell them with ease.
-
-# $ 2000 USD
-
-* Source code API
-* Source code Games
-
-
-<a target="_blank" href="https://chinesa.venixserver.cloud/">
-    <div align="center">
-      <img src="https://venixserver.cloud/storage/01JHPM2EDE49Z7ESXHN2RD5G8Z.jpg" alt="Descrição da imagem" />
-    </div>
-</a>
-
-### Demo
-https://venix.games/
-
-## PGSOFT
-
-* Honey Trap of Diao Chan
-* Fortune Gods
-*  Medusa 1: The Curse of Athena
-* Reel Love
-*  Win Win Won
-*  Plushie Frenzy
-*  Mr. Hallow-Win
-*  Prosperity Lion
-*  Santa's Gift Rush
-*  Piggy Gold
-*  Jungle Delight
-*  Emperor's Favour
-*  Journey to the Wealth
-*  Fortune Mouse
-*  Fortune Ox
-*  Fortune Tiger
-*  Fortune Rabbit
-* Lucky Clover Lady
-* Fortune Dragon
-* Cash Mania
-
-* Luva Melhor do Mundo
-* Luva Mines
-
-
-* Narcos
-
-### PRAGMATIC
-
-*  Gates of Olympus
-* Book of the Fallen
-* Dragons 888
-* Ancient Egypt
-* Aztec Gems
-* Great Rhino
-*  Ancient Egypt
-*  Book of Tut PM
-* Fortune of Giza
-*  Big Bass Splash
-*  Ancient Egypt Classic
-*  Aztec King
-*  Big Bass Bonanza
-*  Big Bass Keeping it Reel
-*  Bigger Bass Blizzard
-*  Bigger Bass Bonanza
-*  Bonanza Gold
-*  Book of Aztec King
-*  Book Of ELDorado
-*  Book of Kingdoms
-*  BookofTutRespin
-*  Book of Vikings
-*  Bubble Pop
-*  Bull Fiesta
-*  Candy Village
-*  Cash Patrol
-*  Chilli Heat
-*  Christmas Big Bass Bonanza
-*  Cleocatra
-*  Clover Gold
-*  Cowboys Gold
-*  Day of Dead
-*  Egyptian Fortunes
-*  Extra Juicy
-*  Eye of the Storm
-* Fire Hot - 5
-*  Fire Hot - 20
-*  Fire Hot - 40
-*  Fire Hot - 100
-*  Fruit Party
-*  Fruit Party 2
-*  Fruit Rainbow
-*  Heart of Rio
-*  Glorious Rome
-*   Golden Ox
-*   Gold Rush
-*   Great Reef
-*  Great Rhino Deluxe
-*   Hercules son of Zeus
-*   Hockey League
-*   Hot Safari
-*   Hot To Burn
-*   Hotto Burn Extreme
-*   John Hunter And The Mayan Gods
-*   John Hunter and the Tomb of the Scarab Queen
-*   Joker King
-*   Juicy Fruits
-*   Kingdom Of Asgard
-*   Lady Godiva
-*   Lucky New Year
-*   Lucky New Year Tiger Treasures
-*   Madame Destiny
-*   Money Mouse
-*   7 Monkeys
-*   Mustang Gold
-*   Pandas Fortune
-*   Pandas Fortune 2
-*   Pirate Gold
-*  Pirate Gold Deluxe
-*   Pirate Golden Age
-*  Pyramid Bonanza
-*  Pyramid King
-*  Return Of The Dead
-*   Safari King
-*   Starlight Princess
-*   Striking Hot - 5
-*   Sugar Rush
-*  Super 7s
-*   Sweet Bonanza
-*   Sweet Bonanza Xmas
-*   Tales of Egypt
-*   The Dog House
-*   The Tiger Warrior
-*   Tweety House
-*   Wild Beach Party
-*   7 Piggie
-*   Fire Strike
-*   Fishin Reels
-*   Rise of Samurai 3
-*   Shining Hot 5
-*   Chicky Run
-*   Wings of Iguazu
-
-# $ 2000 USD
-
-* Source code API
-* Source code Games
-
-
-## MODELO BLUERUSH - PREMIUM VIP 2025
-
-A platform developed with a focus on conversion, designed with attractive elements and strategic triggers to boost your business results. It features a unilevel structure, along with infinite CPA and revshare. Additionally, it provides an advanced control panel and a comprehensive affiliate management system to optimize your performance.
-
-Plataforma desenvolvida com foco em conversão, projetada com elementos atraentes e gatilhos estratégicos para impulsionar os resultados do seu negócio. Ela conta com uma estrutura unilevel, além de CPA e revshare infinitos. Também oferece um painel de controle avançado e uma gestão de afiliados completa para otimizar seu desempenho.
-
-## $1000 USD
-## R$ 6000 BRL
-
-[COMPRAR AQUI](https://wa.me/5531993753172)
-
-[![Watch the video](https://i.postimg.cc/ZnBQgmC4/bluerush.jpg)](https://www.youtube.com/watch?v=ebgxWaCgV5E)
+https://www.instagram.com/victormsalatiel
 
 
 
@@ -338,14 +160,7 @@ Depois para baixar os jogos, você pode definir uma vez por dia.
 ```
 [Precisa de recarga? Clique aqui](https://venix.games/)
 
-## CUIDADO COM UM NOVO GOLPISTA
-**Eu há um tempo após alguns haters, mudei o meu usuário do instagram, porem não sei como fizeram isso, pra mim não era
-possivel, alguem trocou, pegou o mesmo usuário meu anterior. Já denunciei, e peço a vocês que façam o mesmo, por que esse
-bandido está dando inumeros golpes utilizando meu nome e meu produto.**
 
-ESSE PERFIL NÂO SOU EU. DENUNCIEM!!!
-
-https://www.instagram.com/victormsalatiel
 
 ## Recursos:
 
